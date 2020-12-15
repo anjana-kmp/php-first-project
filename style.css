@@ -1,0 +1,13 @@
+a{
+    font-size: 50px;
+    color: red;
+    text-transform: capitalize;
+}
+p{
+    font-size: 60px;
+    color: blue;
+    text-decoration: underline;
+    display: block;
+
+
+}
